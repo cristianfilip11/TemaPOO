@@ -1,0 +1,10 @@
+﻿  RegiuneMilitaristica.cpp
+D:\POO\TemaPOO\TemaPOO\RegiuneMilitaristica.cpp(16,120): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
+D:\POO\TemaPOO\TemaPOO\RegiuneMilitaristica.cpp(71,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  RegiuneReligioasa.cpp
+D:\POO\TemaPOO\TemaPOO\RegiuneReligioasa.cpp(32,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\POO\TemaPOO\TemaPOO\RegiuneReligioasa.cpp(71,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\POO\TemaPOO\TemaPOO\RegiuneReligioasa.cpp(72,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  TemaPOO.vcxproj -> D:\POO\TemaPOO\x64\Debug\TemaPOO.exe
