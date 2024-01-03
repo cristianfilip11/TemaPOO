@@ -1,4 +1,4 @@
-﻿#Tema bonus POO Filip Cristian 324AB
+﻿Tema bonus POO Filip Cristian 324AB
 
 Pentru exemplul dat, la zona 3, consider ca este gresit rezultatul pentru prezenta la vot, daca calculez de mana nu da 98.43% ci 97.91%
 
@@ -50,41 +50,77 @@ Acestea trebuie să fie în fișierul de output în aceeași ordine în
 care au fost primite în fișierul de input.
 Adăugați și procentul din populația eligibilă să voteze care și-a exprimat această opțiune, nu
 rotunjiti cifrele din procente, daca aveti 0.239 afisati 23%.
+
 Exemplu:
+
 Input.txt
+
 1 150000
+
 70000 30000 40000 9000 999
+
 2 230000
+
 7 240 345 1234 6500 12000 4000 56000 32000 117673
+
 3 195000
+
 55000 32000 39500 68499
+
 2 1
+
 Declaram 2 decembrie zi libera?
+
 Da 20000 10000 15000 100 5
+
 Nu 14000 9000 25000 8900 994
+
 Oferim 1000 lei bonus de sarbatori?
+
 Da 50000 9000 20000 5000 400
+
 Nu 1000 11000 10000 500 100
+
 1 2
+
 Doriti sa marim taxele cu 10%?
+
 Da 2 100 300 1000 2000
+
 Nu 4 50 40 200 4500
+
 1 3 20
+
 Marim salariul minim cu 100 lei?
+
 Da 40000
+
 NU 40000
+
 Output.txt
+
 Zona 1
+
 Declaram 2 decembrie zi libera?
+
 Respins 37041.0-39958.8
+
 Prezenta vot: 68.66%
+
 Oferim 1000 lei bonus de sarbatori?
+
 Acceptat 71280.0-16020.0
+
 Prezenta vot: 71.33%
+
 Zona 2
+
 Doriti sa marim taxele cu 10%?
+
 Respins 22320-29210
+
 Prezenta vot: 98.43%
+
 Zona 3
 Marim salariul minim cu 100 lei?
 Egalitate 40000-40000
